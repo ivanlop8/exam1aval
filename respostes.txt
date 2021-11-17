@@ -2,6 +2,9 @@ Actividad 3  nano si.txt
 
 Actividad 5  cp ./si.txt ./si/sicopia.txt
 
-Actividad 6  ls -l awk '{ print $1 "-" $4 }'
+Actividad 6  ls -l awk '{ print $1 "-" $4 }' Alumnos.txt
 
 Actividad 7 
+
+Actividad 8 sed 's/Cinco/Pepe/' Alumnos.txt 
+
