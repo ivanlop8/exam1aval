@@ -1,1 +1,4 @@
 Actividad 3 - nano si.txt
+
+Actividad 5 - cp ./si.txt ./si/sicopia.txt
+
