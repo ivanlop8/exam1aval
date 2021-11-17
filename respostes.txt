@@ -1,4 +1,5 @@
-Actividad 3 - nano si.txt
+Actividad 3  nano si.txt
 
-Actividad 5 - cp ./si.txt ./si/sicopia.txt
+Actividad 5  cp ./si.txt ./si/sicopia.txt
 
+Actividad 6  ls -l awk '{ print $1 "-" $4 }'
