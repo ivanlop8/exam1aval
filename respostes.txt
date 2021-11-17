@@ -9,3 +9,5 @@ Actividad 7
 Actividad 8 sed 's/Cinco/Pepe/' Alumnos.txt 
 
 Actividad 9 ls -l awk '{ print $2010, $2019 }' Alumnos.txt
+
+Actividad 10
